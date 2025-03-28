@@ -1,6 +1,7 @@
 ## Intro
 This guide explains how to integrate 1Control Solo/Link with HomeAssistant by integrating 1Control web dashboard. This is not an official integration and it's not officially supported by 1Control, but something I've done to be able to control my 1Control solo from my HomeAssistant instance.
-Selenium is used to access the 1Control web dashboard and trigger an open action on your 1Control solo gate.
+
+Since 1Control currently doesn't provide API or an HomeAssistant integration I'm using python/selenium to open the 1Control web dashboard and operate the Solo device.
 
 ## Requirements
 - 1Control ****Solo + Link**** devices already set up on your 1Control app
