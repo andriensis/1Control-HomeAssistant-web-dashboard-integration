@@ -36,7 +36,7 @@ If you have the 1Control dashboard already set up and linked to your 1Control so
       - `echo "http://dl-cdn.alpinelinux.org/alpine/edge/main" >> /etc/apk/repositories`
       - `apk update`
 - Start AppDaemon add-on and make sure no error are thrown in the logs tab
-- Open a file editor (for instance Visual Studio Code) and go to `/addon_configs/a0d7b954_appdaemon`
+- Open a file editor (for instance Visual Studio Code) and go to `/addon_configs/a0d7b954_appdaemon` (**NOTE**: the folder may change according to your HomeAssistant instance, it might also be in the `config/` folder or otherwise look for a `apps.yaml` file through an editor like Visual Studio Code -- looking at AppDaemon logs might help you find the file too, for instance: `Loading App Module: /config/apps/hello.py`)
 - Open `apps.yaml` and add the following to the bottom of the file:
 ```yaml
  gate:
