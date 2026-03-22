@@ -1,3 +1,8 @@
+> [!WARNING]
+> This repository is deprecated and no longer maintained.\
+> Please use [andriensis/ha-1control](https://github.com/andriensis/ha-1control) instead.
+
+
 ## Intro
 This guide explains how to integrate 1Control Solo/Link with HomeAssistant by integrating 1Control web dashboard. This is not an official integration and it's not officially supported by 1Control, but something I've done to be able to control my 1Control solo from my HomeAssistant instance.
 
