@@ -1,6 +1,21 @@
-> [!WARNING]
-> This repository is deprecated and no longer maintained.\
-> Please use [andriensis/ha-1control](https://github.com/andriensis/ha-1control) instead.
+![Status: Deprecated](https://img.shields.io/badge/status-DEPRECATED-red?style=for-the-badge)
+![Moved to](https://img.shields.io/badge/moved%20to-andriensis%2Fha--1control-blue?style=for-the-badge)
+<div align="center">
+
+# 🚫 DEPRECATED 🚫
+
+### This repository is no longer maintained
+
+### 👉 Use **[andriensis/ha-1control](https://github.com/andriensis/ha-1control)** instead
+
+</div>
+
+---
+---
+---
+---
+---
+---
 
 
 ## Intro
